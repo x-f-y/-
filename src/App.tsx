@@ -16,9 +16,9 @@ const INITIAL_SNAKE = [
 ];
 const INITIAL_DIRECTION = 'UP';
 const SPEED_LEVELS = {
-  EASY: 150,
-  MEDIUM: 100,
-  HARD: 60,
+  EASY: 300,
+  MEDIUM: 200,
+  HARD: 120,
 };
 
 type Point = { x: number; y: number };
