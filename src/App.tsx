@@ -225,7 +225,7 @@ export default function App() {
               gridColumnStart: food.x + 1,
               gridRowStart: food.y + 1,
             }}
-            className="bg-rose-500 rounded-full shadow-[0_0_15px_rgba(244,63,94,0.6)]"
+            className="bg-blue-500 rounded-full shadow-[0_0_15px_rgba(59,130,246,0.6)]"
           />
 
           {/* Game Over / Pause Overlay */}
