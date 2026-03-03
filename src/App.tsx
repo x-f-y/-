@@ -208,7 +208,7 @@ export default function App() {
                 gridRowStart: segment.y + 1,
               }}
               className={`
-                rounded-full shadow-[0_0_10px_rgba(16,185,129,0.3)]
+                rounded-sm shadow-[0_0_10px_rgba(16,185,129,0.3)]
                 ${i === 0 ? 'bg-emerald-400 z-10 scale-110' : 'bg-emerald-600'}
               `}
             />
